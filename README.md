@@ -19,7 +19,7 @@ The LG Project:tm: follows [semantic versioning](https://semver.org/), kinda.
 - Limited-time @Cloud9 role created for C9-related League watch parties, match notifications, and giveaways.
 
 ### 2.12.1 (7/9/2020)
-- LG server icon reverted to normal (but Pride Month is every month)
+- LG server icon reverted (but Pride Month is every month)
 
 ## 2.12.0 (6/17/2020)
 - Games category has been renamed to Games (Individual)
@@ -127,14 +127,11 @@ The LG Project:tm: follows [semantic versioning](https://semver.org/), kinda.
 
 <hr />
 
-### 2.3.3 (1/28/2020)
+### 2.3.2 (1/28/2020)
 - Redid #server-access
 
-### 2.3.2 (11/3/2019)
+### 2.3.1 (11/3/2019)
 - #self-promotion now requires a short description of linked content
-
-### 2.3.1 (10/16/2019)
-- First LG Update (newsletter) released
 
 ## 2.3.0 (10/14/2019)
 - One-step server verification added (must give yourself UT Austin or Guest to access main channels)

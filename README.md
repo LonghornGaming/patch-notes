@@ -6,10 +6,16 @@ The LG Project:tm: follows [semantic versioning](https://semver.org/), kinda.
 
 ## Latest version: 
 
-### 2.12.2 (7/19/2020)
-- Limited-time @Cloud9 role created for C9-related League watch parties, match notifications, and giveaways.
+## 2.13.0 (7/23/2020)
+- Merged #partner-orgs and #communities into #partners-communities
+- Renamed #introductions to #say-hello
+- Removed channels due to timing clause (1 month of inactivity): Animal Crossing, Terraria, Stardew Valley
+- Added Magic: The Gathering, ROBLOX, and Speedrunning roles
 
 <hr />
+
+### 2.12.2 (7/19/2020)
+- Limited-time @Cloud9 role created for C9-related League watch parties, match notifications, and giveaways.
 
 ### 2.12.1 (7/9/2020)
 - LG server icon reverted to normal (but Pride Month is every month)

@@ -11,6 +11,7 @@ The LG Project:tm: follows [semantic versioning](https://semver.org/), kinda.
 - Renamed #introductions to #say-hello
 - Removed channels due to timing clause (1 month of inactivity): Animal Crossing, Terraria, Stardew Valley
 - Added Magic: The Gathering, ROBLOX, and Speedrunning roles
+- Daniel "Kiiro" writes/releases these patch notes
 
 <hr />
 

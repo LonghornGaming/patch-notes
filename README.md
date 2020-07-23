@@ -6,8 +6,122 @@ The LG Project:tm: follows [semantic versioning](https://semver.org/), kinda.
 
 ## Latest version: 
 
+### 2.12.2 (7/19/2020)
+- Limited-time @Cloud9 role created for C9-related League watch parties, match notifications, and giveaways.
+
+<hr /><hr />
+
+### 2.12.1 (7/9/2020)
+- LG server icon reverted to normal (but Pride Month is every month)
+
+## 2.12.0 (6/17/2020)
+- Games category has been renamed to Games (Individual)
+- #art created
+- #anime has been renamed to include #tv-films-anime
+- #lg-members has been removed as we adjust the membership system over the summer
+- #off-topic has been removed to consolidate messages into #general. Previously "off-topic content" is now welcome in #general
+- #battlestations has been consolidated into #technology
+- #autobattlers has been renamed #teamfight-tactics and is being moved to Games (Individual) 
+  - New @TFT role in #server-access to access it.
+- #battle-royale has been consolidated into #fps
+- #sports has been consolidated into #racing-and-sports
+- #card has been consolidated into #strategy
 
 <hr />
+
+### 2.11.3 (6/15/2020)
+- Full events Google Calendar posted on [LG Website](https://longhorngaming.gg/events)
+
+### 2.11.2 (6/3/2020)
+- LG server icon updated for Pride Month
+
+### 2.11.1 (5/24/2020)
+- #animals channel added
+
+## 2.11.0 (5/22/2020)
+- #server-access completely overhauled:
+  - New games/channels #gacha, #food, Sim racing, Splatoon, #dead-by-daylight, #terraria, Tetris 99, #jackbox, #stardew-valley added
+  - Games re-alphabetized and split up into multiple messages to accomodate max reaction limit per-message
+  - Games with attributes (designated channels, etc.) denoted on list itself
+
+<hr />
+
+## 2.10.0 (5/14/2020)
+- Family system preview unveiled, next announcement date set for late July release
+- Game Ambassador system unveiled as conduit between competitive teams and LG crew
+- Server access rework announced, new system available:
+   - Continue to put new game suggestions in #suggestions
+   - Once posted, react to your message with :thumbsup:
+   - If 6 (or more) total unique reactions are given to your message, the associated game will receieve a **role**
+   - If 11 (or more) total unique reactions are given to your message, the associated game will receive a **text channel**. 
+   - Discussion on games should take place in **relevant category channels** or **#general**.
+   - 1 month inactivity period still applies to constitute removal of a game channel.
+- Ping guidelines reworked; expect less @mentions in #announcements from now on. Patches should have more substance to constitute an @. 
+   
+<hr />
+
+## 2.9.0 (4/25/2020)
+- Family system officially returning Fall 2020; Jaygo "jaygoki" Greeson chosen as Director.
+
+<hr />
+
+### 2.8.1 (4/22/2020)
+- Digital Productions (DP) team added with Ariya "Almond Cookie" Chotiwat, Shreya "Raven" Agarwala, and Colette "Cake" Montminy comprising. 
+
+## 2.8.0 (4/18/2020)
+- Ashley "asurikae" Kim becomes next President of LG (and first female President)
+- Ahir "CrusherCake" Chatterjee and Daniel "Kiiro" Killough become new role of Vice Presidents of Internal/External Affairs, respectively
+- Issac "Pursin" Castañeda becomes the new Secretary
+- James "Railgun" Hwang maintains his position as Treasurer
+- Cierra "poshnerd" Morrisey becomes the new Creative Director
+- Tyler Meffert maintains his position as Esports Director
+- Brock "Gyll_" Brennan becomes the new Events Director
+- Marketing and Community are re-merged into Public Relations (PR) with Brian "varsity_scooter" Christiansen as its director
+
+<hr />
+
+## 2.7.0 (4/14/2020)
+- Removed 2K/Madden, Apex Legends, Beat Saber, and Destiny 2 channels due to lack of activity
+- #sports created for 2K/Madden/FIFA/etc.
+- New game channel creation system:
+  - Make a request in #suggestions 
+  - New/popular games with "a lot of interest" will be given roles and text channels
+  - Small games and/or those with new competitive teams will be given roles
+  - All new roles will be added to #server-access in the next following update
+- New channel deletion system:
+  - Channels with no activity for one (1) consecutive month will be deleted unless there is no better category option.
+  
+<hr />
+
+## 2.6.0 (4/11/2020)
+- Website relaunched at https://longhorngaming.gg ; originally created by Ashley "ashkeylim" (now "asurikae") Kim using Webflow and ported/maintained to GitHub pages by Colette "Cake" Montminy
+
+<hr />
+
+### 2.5.3 (4/3/2020)
+- VALORANT added to list of game channels
+
+### 2.5.2 (4/2/2020)
+- LZ officially renamed "Longhorn Gaming"
+- *note: it takes 28 days to revert facebook group names...*
+
+### 2.5.1 (4/1/2020)
+- LG officially renamed "Longhorn Zooming" 
+
+## 2.5.0 (2/16/2020)
+- #mental-health-resources added and populated by WiG's mental health officer Felicia "AmphritriteL" Lu.
+
+<hr />
+
+## 2.4.0 (2/4/2020)
+- #community-servers established
+- Removed Overwatch, Brawl Stars, CS:GO, Fortnite, Rocket League, Rainbow 6: Siege, Smash Melee, Smash Ultimate, SFV channels
+- #games-discussion deleted (as "that's literally the rest of the server")
+
+<hr />
+
+### 2.3.3 (1/28/2020)
+- Redid #server-access
 
 ### 2.3.2 (11/3/2019)
 - #self-promotion now requires a short description of linked content

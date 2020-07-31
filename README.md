@@ -7,6 +7,7 @@ The LG Project:tm: follows [semantic versioning](https://semver.org/), kinda.
 ## Latest version: 
 
 ### 2.13.2 (7/30/2020)
+- Added @VR role to #server-access
 - Removed #horror due to inactivity (over 1 month). Defer to nearest corresponding game channel or #general
 
 <hr />

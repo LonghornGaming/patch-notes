@@ -6,11 +6,14 @@ The LG Project:tm: follows [semantic versioning](https://semver.org/), kinda.
 
 ## Latest version: 
 
-### 2.13.1 (7/26/2020)
-- Added Under Night role; David "Danseo" Lee team manager
-- Added #VR game category for Echo Arena, Beat Saber, Pavlov, and other VR content 
+### 2.13.2 (7/30/2020)
+- Removed #horror due to inactivity (over 1 month). Defer to nearest corresponding game channel or #general
 
 <hr />
+
+### 2.13.1 (7/26/2020)
+- Added Under Night role; David "Danseo" Lee team manager
+- Added #vr game category channel for Echo Arena, Beat Saber, Pavlov, and other VR content 
 
 ## 2.13.0 (7/23/2020)
 - Merged #partner-orgs and #communities into #partners-communities

@@ -6,11 +6,16 @@ The LG Project:tm: follows [semantic versioning](https://semver.org/), kinda.
 
 ## Latest version: 
 
-## 2.13.2 (7/30/2020)
-- Added @VR role to #server-access
-- Removed #horror due to inactivity (over 1 month). Defer to nearest corresponding game channel or #general
+## 2.14.0 (8/1/2020)
+- Upgraded to Community Server -- new QOL improvements like:
+  - Welcome Screen pointing new members to our #welcome and #server-access channels
+  - Server analytics for crew members, giving more insight on member counts over time and retention rates
 
 <hr />
+
+### 2.13.2 (7/30/2020)
+- Added @VR role to #server-access
+- Removed #horror due to inactivity (over 1 month). Defer to nearest corresponding game channel or #general
 
 ### 2.13.1 (7/26/2020)
 - Added Under Night role; David "Danseo" Lee team manager

@@ -64,6 +64,7 @@ The LG Project:tm: follows [semantic versioning](https://semver.org/), kinda.
 
 ### 2.11.1 (5/24/2020)
 - #animals channel added
+- #gacha consolidated into #anime
 
 ## 2.11.0 (5/22/2020)
 - #server-access completely overhauled:

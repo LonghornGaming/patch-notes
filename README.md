@@ -130,7 +130,7 @@ The LG Project:tm: follows [semantic versioning](https://semver.org/), kinda.
 
 ### 2.5.2 (4/2/2020)
 - LZ officially renamed "Longhorn Gaming"
-- *note: it takes 28 days to revert facebook group names...*
+  - *note: it takes 28 days to revert facebook group names...*
 
 ### 2.5.1 (4/1/2020)
 - LG officially renamed "Longhorn Zooming" 

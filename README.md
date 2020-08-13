@@ -21,7 +21,7 @@ The LG Project:tm: follows [semantic versioning](https://semver.org/), kinda.
 - Removed #horror due to inactivity (over 1 month). Defer to nearest corresponding game channel or #general
 
 ### 2.13.1 (7/26/2020)
-- Added Under Night role; David "Danseo" Lee team manager
+- Added Under Night role; David "Danseo" Lee ~~team manager~~ Game Ambassador (DK 8/12)
 - Added #vr game category channel for Echo Arena, Beat Saber, Pavlov, and other VR content 
 
 ## 2.13.0 (7/23/2020)

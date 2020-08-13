@@ -16,6 +16,8 @@ The LG Project:tm: follows [semantic versioning](https://semver.org/), kinda.
   - Welcome Screen pointing new members to our #welcome and #server-access channels
   - Server analytics for crew members, giving more insight on member counts over time and retention rates
 
+<hr />
+
 ### 2.13.2 (7/30/2020)
 - Added @VR role to #server-access
 - Removed #horror due to inactivity (over 1 month). Defer to nearest corresponding game channel or #general

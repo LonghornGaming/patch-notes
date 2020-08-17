@@ -6,10 +6,13 @@ The LG Project:tm: follows [semantic versioning](https://semver.org/), kinda.
 
 ## Latest version: 
 
-## 2.14.1 (8/13/2020)
-- Shreya "Raven" Agarwala becomes DP Director
+## 2.15.0 (8/17/2020)
+- #community-highlights now live! Post clips (10 - 60 seconds) of your gameplay to the pinned form to be considered for new LG montages coming soon to our YouTube channel.
 
 <hr />
+
+### 2.14.1 (8/13/2020)
+- Shreya "Raven" Agarwala becomes DP Director
 
 ## 2.14.0 (8/1/2020)
 - Upgraded to Community Server -- new QOL improvements like:

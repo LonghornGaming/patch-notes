@@ -8,6 +8,7 @@ The LG Project:tm: follows [semantic versioning](https://semver.org/), kinda.
 
 ## 2.15.0 (8/17/2020)
 - #community-highlights now live! Post clips (10 - 60 seconds) of your gameplay to the pinned form to be considered for new LG montages coming soon to our YouTube channel.
+- Among Us role added
 
 <hr />
 

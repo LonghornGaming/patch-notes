@@ -8,7 +8,7 @@ The LG Project:tm: follows [semantic versioning](https://semver.org/), kinda.
 
 ## 2.15.2 (8/23/2020)
 - #academics now following #ut-announcements from the UT Austin Discord server
-- #streamers made for Stream Team and Casters to talk to DP about stream scheduling
+- \[admin] #streamers made for Stream Team and Casters to talk to DP about stream scheduling
 
 <hr />
 

@@ -6,10 +6,14 @@ The LG Project:tm: follows [semantic versioning](https://semver.org/), kinda.
 
 ## Latest version: 
 
-## 2.15.1 (8/19/2020)
-- Crew, Team Manager, and Game Ambassador permissions updated to disable "Mention @everyone, @here, and all roles" after My and Francis do so. 
+## 2.15.2 (8/23/2020)
+- #academics now following #ut-announcements from the UT Austin Discord server
+- #streamers made for Stream Team and Casters to talk to DP about stream scheduling
 
 <hr />
+
+### 2.15.1 (8/19/2020)
+- Crew, Team Manager, and Game Ambassador permissions updated to disable "Mention @everyone, @here, and all roles" after My and Francis do so. 
 
 ## 2.15.0 (8/17/2020)
 - #community-highlights now live! Post clips (10 - 60 seconds) of your gameplay to the pinned form to be considered for new LG montages coming soon to our YouTube channel.

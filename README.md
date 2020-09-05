@@ -9,7 +9,7 @@ The LG Project:tm: follows [semantic versioning](https://semver.org/), kinda.
 ## 2.16.0 (9/5/2020)
 - Major roles added**
 - Pronoun roles added**
-- Class roles added**
+- Class (year) roles added**
 - LFG role added**
 - New #weekly-roundup channel to keep weekly event announcements all in one place!
 

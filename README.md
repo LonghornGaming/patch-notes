@@ -6,11 +6,20 @@ The LG Project:tm: follows [semantic versioning](https://semver.org/), kinda.
 
 ## Latest version: 
 
-## 2.15.2 (8/23/2020)
-- #academics now following #ut-announcements from the UT Austin Discord server
-- \[admin] #streamers made for Stream Team and Casters to talk to DP about stream scheduling
+## 2.16.0 (9/5/2020)
+- Major roles added**
+- Pronoun roles added**
+- Class roles added**
+- LFG role added**
+- New #weekly-roundup channel to keep weekly event announcements all in one place!
+
+** need to be added to #server-access
 
 <hr />
+
+### 2.15.2 (8/23/2020)
+- #academics now following #ut-announcements from the UT Austin Discord server
+- \[admin] #streamers made for Stream Team and Casters to talk to DP about stream scheduling
 
 ### 2.15.1 (8/19/2020)
 - Crew, Team Manager, and Game Ambassador permissions updated to disable "Mention @everyone, @here, and all roles" after My and Francis do so. 

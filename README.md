@@ -6,6 +6,14 @@ The LG Project:tm: follows [semantic versioning](https://semver.org/), kinda.
 
 ## Latest version: 
 
+## 2.16.1 (9/7/2020)
+- (Virtual) Org Fair category added for Org Fair and Interest meeting channels (Thursday @ 7pm on ttv/utlonghorngaming !)
+- #weekly-roundup channel added for weekly event announcements
+- #polls to be removed in the next patch
+- \[admin] @roles permission added for crew, team managers, and game ambassadors
+
+<hr />
+
 ## 2.16.0 (9/5/2020)
 - Major roles added**
 - Pronoun roles added**

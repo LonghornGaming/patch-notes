@@ -8,6 +8,7 @@ The LG Project:tm: follows [semantic versioning](https://semver.org/), kinda.
 
 ## 2.16.2 (9/8/2020)
 - #server-access redone, again
+- Looking for Group (LFG) role *implemented*. ONLY FOR USE IN GAMES (INDIVIDUAL) CATEGORY.
 
 <hr />
 

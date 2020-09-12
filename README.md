@@ -1,16 +1,46 @@
 # Longhorn Gaming Patch Notes
+(for server and internal; includes some dev notes. written by @dkillough)
 
-The LG Project:tm: follows [semantic versioning](https://semver.org/), kinda.
+#### The LG Project:tm: follows [semantic versioning](https://semver.org/), kinda.
 
 <hr />
 
 ## Latest version: 
 
-## 2.16.2 (9/8/2020)
-- #server-access redone, again
-- Looking for Group (LFG) role *implemented*. ONLY FOR USE IN GAMES (INDIVIDUAL) CATEGORY.
+## 2.17.1 (9/12/2020)
+- The following roles have been added to the main server:
+  - @Halo
+  
+  - @World of Tanks
+  
+  - @Chess
+  
+- The following channels have been added to the main server:
+  - #apex-legends
+  - #chess
+  - #destiny
+  - #fall-guys
+  - #gacha
+  - #halo
+  - #world-of-tanks
+  
+  - #rpg
+  - #platforming
 
 <hr />
+
+## 2.17.0 (9/11/2020): The Interest Meeting Update
+- Interest meeting **check-in form**: https://forms.gle/8C5mRqaBvLTKo5UWA
+- **Family system sign-ups** now opened; CLOSE SUNDAY 9/13: https://forms.gle/4iQw5FZ4ZYPuD59c8
+- **Gamer Insights** recruitment re-opened: https://forms.gle/sRovXdhf5RG3ukdG8
+- **Newsletter** sent out again; [sign up here](https://forms.gle/qnWWpesyEpkuyGs19) to get LG news in your inbox every once in a while
+- Interest meeting channels closed after meeting
+
+<hr />
+
+### 2.16.2 (9/8/2020)
+- #server-access redone, again
+- Looking for Group (LFG) role *implemented*. ONLY FOR USE IN GAMES (INDIVIDUAL) CATEGORY.
 
 ### 2.16.1 (9/7/2020)
 - (Virtual) Org Fair category added for Org Fair and Interest meeting channels (Thursday @ 7pm on ttv/utlonghorngaming !)

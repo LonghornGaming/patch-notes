@@ -26,6 +26,8 @@
   
   - #rpg
   - #platforming
+  
+- Please be aware all Games (Individual) text channels are able to be @LFG'd in but are also subject to removal after 1 month straight of inactivity.
 
 <hr />
 
@@ -34,6 +36,7 @@
 - **Family system sign-ups** now opened; CLOSE SUNDAY 9/13: https://forms.gle/4iQw5FZ4ZYPuD59c8
 - **Gamer Insights** recruitment re-opened: https://forms.gle/sRovXdhf5RG3ukdG8
 - **Newsletter** sent out again; [sign up here](https://forms.gle/qnWWpesyEpkuyGs19) to get LG news in your inbox every once in a while
+- Bevo Bot XP has been reset; xp is now capped at 100/hr and 500/day. Tier 1 starts at 500xp and includes standard in-kind membership rewards from previous semesters.
 - Interest meeting channels closed after meeting
 
 <hr />

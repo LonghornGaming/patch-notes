@@ -7,7 +7,12 @@
 
 ## Latest version: 
 
-## 2.17.1 (9/12/2020)
+## Hotfix v2.17.1_1 (9/13/2020)
+- Added #civilization to Games (Individual)
+
+<hr />
+
+### 2.17.1 (9/12/2020)
 - The following roles have been added to the main server:
   - @Halo
   
@@ -18,7 +23,6 @@
 - The following channels have been added to the main server:
   - #apex-legends
   - #chess
-  - #civilization (added 9/13)
   - #destiny
   - #fall-guys
   - #gacha

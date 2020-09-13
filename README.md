@@ -18,6 +18,7 @@
 - The following channels have been added to the main server:
   - #apex-legends
   - #chess
+  - #civilization (added 9/13)
   - #destiny
   - #fall-guys
   - #gacha

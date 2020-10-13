@@ -7,17 +7,37 @@
 
 ## Latest version: 
 
-## Hotfix v2.17.1_1 (9/13/2020)
-- Added #civilization to Games (Individual)
+## 2.18.0 (10/13/2020)
+- Bevo Bot has received a rework: https://discordapp.com/channels/179791847022002177/211590783332122624/762751732282949653
+- New LG Member-only Bevo Bot category for members to get reward info, exclusive giveaways, and provide suggestions to officers
+- New #partner-events channel for auto-posting of partner org events happening on-campus
+- Renamed #partners-communities to #lg-communities to give more focus to internal communities
+- The following roles have been added to the main server:
+  - @Genshin Impact
+  - @Phasmophobia
+  - @Star Wars
+  
+- The following channels have been added to the main server:
+  - #genshin-impact
+  - #phasmophobia
+  - #star-wars
+  
+  - #adventure
+  
+- The following channel was removed due to lack of activity:
+  - #fall-guys
+
+- #gacha was moved from Games (Individual) to Games (By Category)
 
 <hr />
+
+#### Hotfix v2.17.1_1 (9/13/2020)
+- Added #civilization to Games (Individual)
 
 ### 2.17.1 (9/12/2020)
 - The following roles have been added to the main server:
   - @Halo
-  
   - @World of Tanks
-  
   - @Chess
   
 - The following channels have been added to the main server:
@@ -28,7 +48,7 @@
   - #gacha
   - #halo
   - #world-of-tanks
-  
+
   - #rpg
   - #platforming
   

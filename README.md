@@ -7,6 +7,25 @@
 
 ## Latest version: 
 
+## 2.18.1 (11/10/2020)
+- All @Stream Team updates will now occur in #events. Streamers are encouraged to post their own announcements.
+- New Splatoon 2 competitive team in the works; DM @Cake#6668 if you have any questions
+
+- The following role has been added to the main server:
+  - @Team Fortress 2
+
+- The following channel has been added to the main server:
+  - #team-fortress
+  
+- The following channels were removed due to lack of activity:
+  - #chess
+  - #world-of-tanks
+
+<hr />
+
+#### Hotfix v2.18.0_1 (10/28/2020)
+- Added #simulation to Games (by Category)
+
 ## 2.18.0 (10/13/2020)
 - Bevo Bot has received a rework: https://discordapp.com/channels/179791847022002177/211590783332122624/762751732282949653
 - New LG Member-only Bevo Bot category for members to get reward info, exclusive giveaways, and provide suggestions to officers

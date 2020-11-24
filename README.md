@@ -7,6 +7,9 @@
 
 ## Latest version: 
 
+## Hotfix v2.18.1_1 (10/28/2020)
+- Added #magic to Games (Individual) for @Magic: the Gathering members
+
 ## 2.18.1 (11/10/2020)
 - All @Stream Team updates will now occur in #events. Streamers are encouraged to post their own announcements.
 - New Splatoon 2 competitive team in the works; DM @Cake#6668 if you have any questions

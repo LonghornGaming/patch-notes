@@ -7,7 +7,97 @@
 
 ## Latest version: 
 
-## Hotfix v2.18.1_1 (10/28/2020)
+## 2.19.0 (1/11/21)
+- Added in new welcome screen for incoming members. Previously joined members have been grandfathered in but will still need to verify their email addresses with Discord before being able to chat.
+- Renamed #welcome to #rules
+- Renamed #server-access to #roles
+- Made #esports-updates an Announcements channel
+- Any channel that used to be private to UT Austin/UT Alumni/Guest only is now public.
+- New Community Engagement category that holds channels that directly elicit community interaction
+- Removed Bevo Bot category and moved channels to Community Engagement
+- Renamed #lg-communities to #partner-servers and removed associated community server links
+
+- Added LG Communities category containing one channel for each game. 
+  - Each of these channels is read-only with a single link to the associated community server.
+  - Team managers should reach out to @Kiiro#0001 if they would like to add some information alongside the server invite link to the channel.
+  
+- Added the following roles to the server:
+  - Dungeons & Dragons
+  - Elder Scrolls Online
+  - Escape from Tarkov
+  - Fire Emblem
+  - Path of Exile
+  - Runescape
+  - The Sims
+  - World of Warcraft
+  
+- Added Platform-Exclusive category with the following channels:
+  - #xbox
+  - #nintendo
+  - #playstation
+  - #mobile
+- Relocated #vr to Platform-Exclusive
+- Added MMO category with the following channels:
+  - #mmo-general
+  - #elder-scrolls-online
+  - #path-of-exile
+  - #runescape
+  - #world-of-warcraft
+- Added Rhythm category with the following channels:
+  - #rhythm-general
+  - #beat-saber
+  - Relocated #osu
+- Added RPG category with the following channels:
+  - #rpg-general
+  - #dungeons-and-dragons
+  - Relocated #pokemon
+- Added Sandbox category with the following channels:
+  - #sandbox-general
+  - #animal-crossing
+  - Relocated #minecraft
+  - #the-sims
+  - #stardew-valley
+  - #terraria
+- Added Shooters category with the following channels:
+  - #fps-general
+  - Relocated #apex-legends
+  - Relocated #destiny
+  - Relocated #halo
+  - #pubg
+  - Relocated #star-wars
+  - Relocated #team-fortress
+  - Relocated #titanfall
+- Added Sports category with the following channels:
+  - #sports-general
+  - #racing-general
+  - #madden
+  - #nbd-2k
+- Added Strategy category with the following channels:
+  - #strategy-general
+  - Relocated #among-us
+  - Relocated #civilization
+  - #fire-emblem
+  - Relocated #magic
+  - Relocated #teamfight-tactics
+- Added Survival Horror category with the following channels:
+  - #horror-general
+  - Relocated #dead-by-daylight
+  - Relocated #phasmophobia
+- Added Miscellaneous category with the following channels:
+  - Renamed #adventure to #action-adventure
+  - Relocated #gacha
+  - Relocated #genshin-impact
+  - Relocated #platforming
+  - Relocated #simulation
+  - Relocated #single-player
+  - #speedrunning
+- Channels now require 2 months of inactivity before they will be removed
+- @LFG rules are still in effect for those channels that are **private** (have a lock icon on them)
+- New role/channel suggestions require one (1) individual to "second" the suggestion in order for them to be put into effect (down from five)
+
+<hr />
+
+#### Hotfix v2.18.1_1 (10/28/2020)
 - Added #magic to Games (Individual) for @Magic: the Gathering members
 
 ## 2.18.1 (11/10/2020)

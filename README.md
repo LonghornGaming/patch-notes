@@ -7,6 +7,12 @@
 
 ## Latest version: 
 
+## 2.19.1 (3/29/21)
+- Moved both #pokemon and #destiny to LG Communities with the birth of their own servers
+- Jack "Squirrel" new Pokemon VGC team manager
+
+<hr />
+
 ## 2.19.0 (1/11/21)
 - Added in new welcome screen for incoming members. Previously joined members have been grandfathered in but will still need to verify their email addresses with Discord before being able to chat.
 - Renamed #welcome to #rules

@@ -348,7 +348,7 @@
 - LG officially renamed "Longhorn Zooming" 
 
 ## 2.5.0 (2/16/2020)
-- #mental-health-resources added and populated by WiG's mental health officer Felicia "AmphritriteL" Lu.
+- #mental-health-resources added and populated by WiG's mental health officer Felicia "AmphritriteL" (now "Aiyakashi") Lu.
 
 <hr />
 

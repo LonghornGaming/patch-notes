@@ -7,8 +7,22 @@
 
 ## Latest version: 
 
+## 3.1.0 (6/1/21)
+- PRIDE MONTH LETS GOOOOOO (icon updated to reflect Philadelphia Pride flag)
+- The Community servers category has been collapsed into one channel, now in Resources 
+- #say-hello moved to Info category
+- #self-promotion and #bot-spam moved to General category
+- All other bot and giveaway channels have been removed
+- #bot-suggestions has been collapsed into #server-suggestions and renamed just #suggestions
+- Highlights channels have been removed; looking to pull clips from community servers instead
+- #food, #marketplace, and #animals have been archived
+- **All individual game channels** have been removed in favor of general category channels
+  - Exceptions: Apex Legends and Beat Saber, which are both likely to receive their own community servers
+
+<hr />
+
 # 3.0.0 (4/1/21)
-- <b>Longhorn Gaming becomes a Sponsored Student Organization under Student Affairs and University Unions.</b>
+- Under <b>Longhorn Gaming becomes a Sponsored Student Organization under Student Affairs and University Unions.</b>
 
 <hr />
 
@@ -378,13 +392,11 @@
 ### 2.2.3 (10/5/2019)
 - New game roles added: Fortnite, Magic The Gathering, Madden/NBA2K, Call of Duty, Hearthstone, and Heroes of the Storm
 
-
 ### 2.2.2 (10/2/2019)
 - UT Anime (Weeb Club) added to #partners
 
 ### 2.2.1 (9/22/2019)
 - Many community servers are removed from the #partners list in favor of being pinned in their respective game channels.
-
 
 ## 2.2.0 (September 2020)
 - Community splits off from Marketing, forming its own team to focus on social media and interpersonal engagement.

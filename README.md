@@ -7,11 +7,37 @@
 
 ## Latest version: 
 
-## 3.2.6 (10/17/21)
-- Community servers created for Deep Rock Galactic and Minecraft
-- #game-servers updated with all new additions
+## 3.3.5 (3/14/22)
+- Virtual Events, TFT tournament categories archived to help tidy sidebar
 
 <hr />
+
+### 3.3.4 (2/26/22)
+- Temp category & channels made for TFT Tournament
+
+### 3.3.3 (2/2/22)
+- **The LG main server reaches 3,500 members!**
+- New UT Halo server + added to #game-servers
+- New #pavlov channel + role for CVRE competitions
+
+### 3.3.2 (12/12/21)
+- New winter-themed profile picture added
+
+### 3.3.1 (12/3/21)
+- Sticker Bounty Hunt event ended
+- LG Merchandise released!
+
+## 3.3.0 (11/30/21)
+- Sticker Bounty Hunt event started with associated category channels created 
+
+<hr />
+
+### 3.2.7 (11/11/21)
+- New Thanksgiving-themed server icon !
+
+### 3.2.6 (10/17/21)
+- Community servers created for Deep Rock Galactic and Minecraft
+- #game-servers updated with all new additions
 
 ### 3.2.5 (10/4/21)
 - Jaygo "jaygoki" and Colette "Cake" step down from respective positions. Ahir "CrusherCake" and Brendan "Laundry Sauce" replace them.

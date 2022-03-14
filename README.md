@@ -7,6 +7,47 @@
 
 ## Latest version: 
 
+## 3.2.6 (10/17/21)
+- Community servers created for Deep Rock Galactic and Minecraft
+- #game-servers updated with all new additions
+
+<hr />
+
+### 3.2.5 (10/4/21)
+- Jaygo "jaygoki" and Colette "Cake" step down from respective positions. Ahir "CrusherCake" and Brendan "Laundry Sauce" replace them.
+
+### 3.2.4 (9/10/21)
+- ARK: Survival Evolved server created
+
+### 3.2.3 (9/8/21)
+- Team Fortress 2 server added w/ 2 TMs
+
+### 3.2.2 (9/7/21)
+- FFXIV server added to #game-servers
+- UT Grand Strategy Gaming server acquired by LG
+
+### 3.2.1 (8/29/21)
+- #community-servers renamed to #game-servers
+
+## 3.2 (8/2/21)
+- #marketplace revived by popular request
+- Threads added
+  - Can now @LFG in **any** game-specific thread **and** create them whenever you want. 
+    - Please see the example *Battlefield* thread in #shooters 
+  - Join or leave threads at any time to opt in & out of pings
+
+<hr />
+
+#### Hotfix 3.1.2_1 (7/25/21)
+- LG Fortnite server invite added to #community-servers
+
+### 3.1.2 (7/20/21)
+- #food revived
+- #apex-legends removed in favor of server added in previous patch
+
+### 3.1.1 (7/12/21)
+- Apex Legends server created and open for business
+
 ## 3.1.0 (6/1/21)
 - PRIDE MONTH LETS GOOOOOO (icon updated to reflect Philadelphia Pride flag)
 - The Community servers category has been collapsed into one channel, now in Resources 
@@ -22,7 +63,7 @@
 <hr />
 
 # 3.0.0 (4/1/21)
-- Under <b>Longhorn Gaming becomes a Sponsored Student Organization under Student Affairs and University Unions.</b>
+- Under President Ashley "asurikae" Kim, <b>Longhorn Gaming becomes a Sponsored Student Organization under Student Affairs and University Unions.</b> James Buckley of University Unions becomes faculty advisor.
 
 <hr />
 
@@ -404,7 +445,7 @@
 <hr />
 
 ## 2.1.0 (8/15/2019)
-- Daniel "Pie" (now "Kiiro") Killough overhauls the Discord server to simplify layout. "Games" and "Games (By Category)" established.
+- Daniel "Pie" (Edit: now "Kiiro") Killough overhauls the Discord server to simplify layout. "Games" and "Games (By Category)" established.
 
 <hr />
 

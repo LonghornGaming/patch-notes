@@ -1,3 +1,10 @@
+!!!!!!!!!!!!!!!!!
+This Repo is Deprecated in Favor of [Our Discord Pages Repo](https://github.com/LonghornGaming/lg-discord-pages)!
+!!!!!!!!!!!!!!!!!
+
+
+
+
 # Longhorn Gaming Patch Notes
 (for server and internal; includes some dev notes. written by @dkillough)
 

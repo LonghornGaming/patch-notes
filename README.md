@@ -14,10 +14,6 @@ This Repo is Deprecated in Favor of [Our Discord Pages Repo](https://github.com/
 
 ## Latest version: 
 
-# 5.0.0 (7/32/23)
-- Intentionally Skipped Version 4 to Indicate Recording Gap
-- Declared Intention to Continue the Patch Notes
-
 ## 3.3.5 (3/14/22)
 - Virtual Events, TFT tournament categories archived to help tidy sidebar
 
